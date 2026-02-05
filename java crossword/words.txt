@@ -1,0 +1,15 @@
+ROUTER:A device that forwards data packets between networks.
+SERVER:A computer that provides services to clients over a network.
+CLIENT:A device or program that requests services from a server.
+BROWSER:A software application used to access and view websites.
+PROGRAM:A set of instructions that a computer executes.
+VARIABLE:A symbolic name associated with a value in programming.
+ALGORITHM:A step-by-step procedure for solving a problem.
+DATABASE:An organized collection of structured information.
+NETWORK:A group of interconnected devices capable of communication.
+PACKET:A small unit of data transmitted over a network.
+FIREWALL:A security system that monitors and controls network traffic.
+OPERATINGSYSTEM:Software that manages computer hardware and resources.
+COMPILER:A tool that converts source code into machine code.
+DEBUG:The process of finding and fixing errors in a program.
+ENCRYPTION:The process of converting data into a secure code.
